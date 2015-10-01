@@ -1,0 +1,29 @@
+{
+  "name": "zinc",
+  "version": "0.0.0",
+  "homepage": "https://github.com/john-cheesman/zinc",
+  "authors": [
+    "John Cheesman <me@johncheesman.org.uk>"
+  ],
+  "description": "Modular style library for all occasions",
+  "main": "zinc.scss",
+  "moduleType": [],
+  "keywords": [
+    "scss",
+    "typography",
+    "css",
+    "css3",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
