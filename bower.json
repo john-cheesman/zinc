@@ -6,8 +6,7 @@
     "John Cheesman <me@johncheesman.org.uk>"
   ],
   "description": "Modular style library for all occasions",
-  "main": "zinc.scss",
-  "moduleType": [],
+  "main": "_main.scss",
   "keywords": [
     "scss",
     "typography",
