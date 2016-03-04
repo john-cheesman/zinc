@@ -16,11 +16,7 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "lib"
   ],
   "dependencies": {
     "normalize-css": "normalize.css#~3.0.3"
